@@ -1,0 +1,57 @@
+.css-qrbaxs{
+    color: white;
+    background-color:#328188;
+    font-size: 25px;
+    padding: 2.4px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+p, ol, ul, dl {
+    background-color: rgb(161, 214, 234);
+    padding: 20px 10px;
+    border-radius: 10px;
+    font-weight: 800;
+    font-size: 20px;
+}
+.css-nlntq9 li {
+    margin: 0.2em 0px 0.2em 1.2em;
+    padding: 0px 0px 0px 0.6em;
+    font-size: 22px;
+}
+
+.css-1cpxqw2 {
+    align-items: center;
+    justify-content: center;
+    font-weight: 800;
+    padding: 0.25rem 0.75rem;
+    border-radius: 0.25rem;
+    margin-bottom: 50px;
+    line-height: 1.6;
+    color: inherit;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgba(49, 51, 63, 0.2);
+}
+
+h1{
+    color: red;
+    background-color: #ffff66;
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 5px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+a{
+    padding: 5px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.st-bt {
+    font-size: 25px;
+    font-weight: 600;
+    background-color: rgb(230 240 255);
+}
