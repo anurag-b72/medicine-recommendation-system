@@ -30,3 +30,4 @@ Anurag Biswal -
 * [anurag.biswal0702@gmail.com](mailto:anurag.biswal0702@gmail.com "anurag.biswal0702@gmail.com")
 * [Linkedin](https://www.linkedin.com/in/anurag-biswal72/ "Linkedin")
 * [Portfolio](https://anurag-b72.github.io/MyPortfolio/ "Website")
+* [Twitter](https://twitter.com/AnuragBiswal72 "Twitter")
