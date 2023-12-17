@@ -39,7 +39,7 @@ By following these instructions, you can deploy the application with the reduced
 
 ## Video Demonstration:- ▶
 
-[![The Making of VIM: The Most Beloved Text Editor of All Time](https://ytcards.demolab.com/?id=0bE4Na5Tk8Q&title=Demo+for+Medicine+Recommendation+System&lang=en&timestamp=1653795158&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=393 "Demo for Medicine Recommendation System")](https://www.youtube.com/watch?v=0bE4Na5Tk8Q)
+[![Demo for Medicine Recommendation System](https://ytcards.demolab.com/?id=0bE4Na5Tk8Q&title=Demo+for+Medicine+Recommendation+System&lang=en&timestamp=1653795158&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=393 "Demo for Medicine Recommendation System")](https://www.youtube.com/watch?v=0bE4Na5Tk8Q)
 [Click Here](https://youtu.be/0bE4Na5Tk8Q "YouTube") for Proper Demonstration of Application.
 
 ---
